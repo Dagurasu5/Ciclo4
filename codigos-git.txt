@@ -83,5 +83,14 @@ git config --global alias."stats" "shortlog -sn --all --no-merges"
 	colocando el alias)
 
 
+		↱ Se coloca el alias que se asigno.
+git #Alias#
+	↪( Metodo para usar el alias )
+	
+
 git config --global --unset alias.trololo
 	↪ ( Comando para eliminar alias )
+
+
+git pull master master --allow-unrelated-histories
+	↪ ( Comando para resolver problema con las historias de repositorio remoto con el local )
